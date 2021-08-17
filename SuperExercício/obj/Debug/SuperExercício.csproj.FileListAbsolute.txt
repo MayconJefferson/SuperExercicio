@@ -1,0 +1,7 @@
+C:\Users\Mayke\source\repos\SuperExercício\SuperExercício\bin\Debug\SuperExercício.exe.config
+C:\Users\Mayke\source\repos\SuperExercício\SuperExercício\bin\Debug\SuperExercício.exe
+C:\Users\Mayke\source\repos\SuperExercício\SuperExercício\bin\Debug\SuperExercício.pdb
+C:\Users\Mayke\source\repos\SuperExercício\SuperExercício\obj\Debug\SuperExercício.csproj.AssemblyReference.cache
+C:\Users\Mayke\source\repos\SuperExercício\SuperExercício\obj\Debug\SuperExercício.csproj.CoreCompileInputs.cache
+C:\Users\Mayke\source\repos\SuperExercício\SuperExercício\obj\Debug\SuperExercício.exe
+C:\Users\Mayke\source\repos\SuperExercício\SuperExercício\obj\Debug\SuperExercício.pdb
